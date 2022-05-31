@@ -1,1 +1,1 @@
-# CCT
+# Task for CCT Internship program
